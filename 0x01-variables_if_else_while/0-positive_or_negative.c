@@ -4,17 +4,16 @@
 
 #include <stdio.h>
 
-/* more headers goes there*/
-/*
- * if the number is zero
- * if the number is negative
- * if the number is positive
+/**
+ * main - print if number is zero,negative or positive
  * Return: Always 0 (Success)
+ *
  */
 
 int main(void)
 
-{
+}
+
 	int n;
 
 	srand(time(0));
