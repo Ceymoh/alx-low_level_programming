@@ -1,1 +1,1 @@
-compile cisfun
+write a program using puts
