@@ -12,7 +12,7 @@ int main(void)
 {
 	/*description of programming language*/
 
-	puts("programming is like building a mulitlingual puzzle\n");
+	puts(""programming is like building a mulitlingual puzzle\n");
 
 	return (0);
 }
