@@ -1,1 +1,1 @@
-write a program using puts
+prinf followed by a newline
