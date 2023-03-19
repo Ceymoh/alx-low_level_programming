@@ -1,1 +1,1 @@
-print size of type in comp
+print intel assembly code
