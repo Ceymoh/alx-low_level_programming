@@ -1,1 +1,1 @@
-prinf followed by a newline
+print size of type in comp
