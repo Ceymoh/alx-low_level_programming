@@ -1,1 +1,1 @@
-compile but do no link
+with extension .s instead of .c
