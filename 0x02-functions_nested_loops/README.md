@@ -1,1 +1,1 @@
-checks lowercase character using _islower
+checks for alphabetic character using _isalpha
