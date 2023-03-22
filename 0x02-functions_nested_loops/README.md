@@ -1,1 +1,1 @@
-print_alphabet_x10 in lowercase
+checks lowercase character using _islower
