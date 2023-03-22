@@ -5,17 +5,15 @@
  * Return: success.
  */
 
-int main(void)
+void print_alphabet(void)
 
 {
-	char alphabet;
+	char letter;
 
-	for (alphabet = 'a' ; alphabet <= 'z' ; alphabet++)
+	for (letter = 'a' ; letter <= 'z' ; letter++)
 
-	_putchar(alphabet);
+	_putchar(letter);
 
 	_putchar('\n');
-
-	return (0);
 
 }
