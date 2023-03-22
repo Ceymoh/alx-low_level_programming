@@ -1,1 +1,1 @@
-function to compute the absolute value of an integer
+print last digit of a number using print_last_digit
