@@ -1,1 +1,1 @@
-0x04. C - More functions, more nested loops
+check for numer between 0 and 9
