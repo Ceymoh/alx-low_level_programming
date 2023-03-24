@@ -1,1 +1,1 @@
-prints a number multiple times
+draws a straightline in the terminal
