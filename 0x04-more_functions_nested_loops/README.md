@@ -1,1 +1,1 @@
-multiply two numbers
+print numbers from 0 to 9
