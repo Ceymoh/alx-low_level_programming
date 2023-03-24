@@ -1,1 +1,1 @@
-draws a straightline in the terminal
+print diagonal lines
