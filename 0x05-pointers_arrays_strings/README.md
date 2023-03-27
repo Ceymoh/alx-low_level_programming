@@ -1,1 +1,1 @@
-return the legth of a string
+prints a string
