@@ -1,1 +1,1 @@
-concatenates two strings using _strcat
+ concatenates two strings uing *_strncat
