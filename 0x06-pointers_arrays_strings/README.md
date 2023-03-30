@@ -1,1 +1,1 @@
-encodes a string using rot13
+print integer
