@@ -1,1 +1,1 @@
-encodde a string into 1337 using leet
+encodes a string using rot13
