@@ -1,1 +1,1 @@
-copy string using _strncpy
+compare two strings using _strcmp
