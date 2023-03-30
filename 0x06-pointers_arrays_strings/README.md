@@ -1,1 +1,1 @@
-compare two strings using _strcmp
+reverse the content of an array of integers
