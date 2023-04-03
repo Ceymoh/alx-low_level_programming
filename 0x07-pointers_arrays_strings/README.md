@@ -1,1 +1,1 @@
-locates a char in string
+gets the lenth of prefix
