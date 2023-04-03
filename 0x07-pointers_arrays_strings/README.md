@@ -1,1 +1,1 @@
-copy memory area
+locates a char in string
