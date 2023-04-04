@@ -23,12 +23,12 @@ char *_strstr(char *haystack, char *needle)
 				j++;
 				break;
 			}
-			else if (needle[i + 1] == '\0') 
-			return (needle);
+			else if (needle[i + 1] == '\0')
+				return (needle);
 		}
 		i++;
-	
 	}
+
 	return ("\n");
 }
 
