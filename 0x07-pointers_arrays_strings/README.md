@@ -1,1 +1,1 @@
-finds the first occurence of the substring
+prints a chessboard
