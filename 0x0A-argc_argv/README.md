@@ -1,1 +1,1 @@
-prints the number of argument passed
+prints all arguments it receives
