@@ -1,1 +1,1 @@
-duplicates string to a new string
+concatenates two strings
