@@ -1,1 +1,1 @@
-multiplies 2 numbers
+sum of positive numbers
