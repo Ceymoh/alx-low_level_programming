@@ -21,7 +21,7 @@ int main(int argc, char **argv)
 		return (1);
 	}
 
-	i = atoi(argvi[1]);
+	i = atoi(argv[1]);
 
 	j = atoi(argv[2]);
 
