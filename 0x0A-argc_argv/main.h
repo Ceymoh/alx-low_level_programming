@@ -2,4 +2,5 @@
 #define MAIN_H
 
 int main(int argc, char *argv[]);
+int atoi(char *s);
 #endif
