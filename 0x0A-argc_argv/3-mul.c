@@ -28,6 +28,6 @@ int main(int argc, char **argv)
 
 	m = (i * j);
 
-	printf("multiplication of %d, %d is: %d\n", i, j, m);
+	printf("%d\n", m);
 	return (0);
 }
