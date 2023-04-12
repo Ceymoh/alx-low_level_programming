@@ -5,7 +5,6 @@
  * main - multiplies two numbers
  * @argc: counts the arguments in the program
  * @argv: the string of arrays
- * @atoi: converts string to integer
  * Return: incase of failure print erro and return 1.
  *
  */
@@ -22,7 +21,7 @@ int main(int argc, char **argv)
 		return (1);
 	}
 
-	i = atoi(argv[1]); /* converts string to integer*/
+	i = atoi(argvi[1]);
 
 	j = atoi(argv[2]);
 
