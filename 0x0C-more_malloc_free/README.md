@@ -1,1 +1,1 @@
-allocates memory for an array
+creates arra of integers
