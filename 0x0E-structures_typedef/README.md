@@ -1,1 +1,1 @@
-prints a struct dog
+free dogs
