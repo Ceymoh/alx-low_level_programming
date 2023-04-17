@@ -1,1 +1,1 @@
-initialize a variable of type struct dog
+prints a struct dog
