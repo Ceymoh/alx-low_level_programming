@@ -2,12 +2,14 @@
 #include <stdio.h>
 
 /**
- * get_op_func - elects the correct function to perform the operation asked by the user
+ * get_op_func - elects the correct function
+ * to perform the operation asked by the user
  * @s: function
- * Return: returns a pointer to the function that corresponds to the operator given as a parameter
+ * Return: returns a pointer to the function
+ * that corresponds to the operator given as a parameter
  */
 
-int (*get_op_func(char*s))(int, int)
+int (*get_op_func(char *s))(int, int)
 
 {
 	op_t ops[] = {
@@ -16,12 +18,12 @@ int (*get_op_func(char*s))(int, int)
 		{"*", op_mul},
 		{"/", op_div},
 		{"%", op_mod},
-		{NULL, NULL}
+		{NULL, NULL},
 	};
 	int i = 0;
-	
+
 	while (ops[i].op != NULL && *(ops[i].op) != *s)
 		i++;
-	
+
 	return (ops[i].f);
 }
