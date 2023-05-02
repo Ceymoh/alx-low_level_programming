@@ -2,7 +2,7 @@
 
 /**
  * listint_t - adds a new node
- * @h: constant value used
+ * @head: a pointer
  * @n: value to insert new node
  * Return: a new node
  *
